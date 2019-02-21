@@ -8,11 +8,13 @@
 * How does the system handle overtime, bonuses, or deductions?
 * What laws/regulations need to be followed?
 * How frequently do employees get paid?
+* What reports are needed to be generated?
 
 ## Security
 * How is the system going to get the individual data for each employee?
 * How much data do payroll users have access to?
 * How many security precautions should be in place?
+* What state or federal regulations need to be implemented?
 
 ## Exceptions
 * Will the system handle paycheck exceptions?

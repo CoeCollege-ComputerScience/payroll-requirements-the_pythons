@@ -31,3 +31,6 @@
 * Customer Data
   * SSN, Email, Phone number, Address, ...
 * Generate Invoices
+* state regulations
+* security requirements 
+* user appropriate accessability
