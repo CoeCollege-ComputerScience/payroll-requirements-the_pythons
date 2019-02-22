@@ -1,5 +1,11 @@
 # Requirements
 
+## Program Specs from dmehaffy:
+* binary will have employee name, monthly salary,health benefits to be deducted from paycheck
+* program should take the employee's monthly salary and calculate how much they get paid every two weeks as well as how much tax, healthcare, etc. is deducted
+* program will sum total money paid to government, health insurance, employees
+
+## Other Requirements
 
 1. Make sure user has filed all legal paperwork
 2. 401k compliance
