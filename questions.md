@@ -1,16 +1,8 @@
 
-1. Operating Systems
-11. What forms of payroll documentation is required from this system
-12. What computer hardware will this need to run on (a dedicated computer, home computers, mobile)
-18. Is overtime allowed
 20. Attendance and absence management
 23. Workers comp.
-24. Minimum wage adjustment
-25. Automatic billing
-26. Federal, state and local tax calculations
 29. Financial projections
 30. Paperwork completion monitoring
-
 
 
 ## Questions
@@ -23,6 +15,7 @@
 * How should the program receive information, such as employees' salaries and bonuses?
 * Is paid time off allowed
 * What is the budget for the the payroll system
+* Operating Systems
 
 # Payroll Questions
 
@@ -38,6 +31,7 @@
   * Is there 401k contribution tracking
 * What reports are needed to be generated?
   * Does there need to be a budgeting and forecasting report
+  * What forms of payroll documentation is required from this system
 
 ## Security
 * How much data do payroll users have access to?
