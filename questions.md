@@ -1,18 +1,8 @@
 
-1. Operating Systems
-11. What forms of payroll documentation is required from this system
-12. What computer hardware will this need to run on (a dedicated computer, home computers, mobile)
-18. Is overtime allowed
 20. Attendance and absence management
 23. Workers comp.
-24. Minimum wage adjustment
-25. Automatic billing
-26. Federal, state and local tax calculations
-27. Social security taxes
-28. Does there need to be a budgeting and forecasting report
 29. Financial projections
 30. Paperwork completion monitoring
-
 
 
 ## Questions
