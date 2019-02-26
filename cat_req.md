@@ -30,13 +30,11 @@
     *  SSN, Email, Phone number, Address, ...
 * Document Storage (Where?)
 * Employee Records
-* Time Tracking
-    * Hours worked
-    
-    
+
+
 ## Security
 * state regulations
-* security requirements 
+* security requirements
 * user appropriate accessability
 
 
@@ -61,5 +59,3 @@
 ### Implementation
 * Does the customer have a program currently managing their payroll?
   * if so, what format is that program's data in?
-
-
