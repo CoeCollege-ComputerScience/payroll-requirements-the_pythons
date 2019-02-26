@@ -24,6 +24,7 @@
 * Direct Deposits
 * Multiple Payment Options
 * Provide ability to input, access, and store data
+* use linked list to store data (extra credit and allows for searching)
 
 ## Data
 * Customer Data
