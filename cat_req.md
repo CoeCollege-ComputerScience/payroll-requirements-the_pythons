@@ -57,5 +57,4 @@
 
 
 ### Implementation
-* Does the customer have a program currently managing their payroll?
-  * if so, what format is that program's data in?
+* The employee data is in a binary file that the program will need to read
