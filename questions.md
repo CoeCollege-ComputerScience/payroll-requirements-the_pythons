@@ -17,7 +17,6 @@
 # Payroll Questions
 
 * Does it handle employee based deductions?
-* What currencies will be used?
 * What types of users will be using the system?
   * What permissions will they have?
 * How do the users access the system?

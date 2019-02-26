@@ -51,6 +51,7 @@
 
 ### Paying employees
 * pay them via direct deposit to their bank accounts
+* pay in dollars
 * deduct taxes
 * follow any relevant laws and regulations
 
