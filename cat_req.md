@@ -22,7 +22,6 @@
 * Automated overtime Calculations
 * Search Capabilities on all fields
 * Direct Deposits
-* Multiple Payment Options
 * Provide ability to input, access, and store data
 
 ## Data
@@ -32,11 +31,11 @@
 * Employee Records
 * Time Tracking
     * Hours worked
-    
-    
+
+
 ## Security
 * state regulations
-* security requirements 
+* security requirements
 * user appropriate accessability
 
 
@@ -45,8 +44,8 @@
   * pay employees, keep records, generate reports
 
 ### User
-* Who will use the program?
-
+* the accounting / payroll department
+* CFO
 
 ### Functional
 * pay employees by direct deposit to their bank accounts
@@ -61,5 +60,3 @@
 ### Implementation
 * Does the customer have a program currently managing their payroll?
   * if so, what format is that program's data in?
-
-
