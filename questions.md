@@ -5,12 +5,10 @@
 30. Paperwork completion monitoring
 
 
-## Questions
+# Questions
 
-* How should the program receive information, such as employees' salaries and bonuses?
-* what is the work flow is used to fulfill the task
 
-# Payroll Questions
+## Payroll Questions
 
 * Does it handle employee based deductions?
 * What currencies will be used?
