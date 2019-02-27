@@ -18,15 +18,9 @@
 * What reports are needed to be generated?
 
 
-## Security
-* How much data do payroll users have access to?
-* How many security precautions should be in place?
-* What state or federal regulations need to be implemented?
-
 ## Exceptions
 * Will the system handle paycheck exceptions?
   * Early paycheck?
-* How (if so) will the system handle employee suspensions?
 
 ## Data Retention
 * What should the system do with old data?

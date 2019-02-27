@@ -27,10 +27,8 @@
 * generate W2 forms for workers
 * keep records of pay, benefits, and bonuses
 * generate reports for:
-  * payroll
-  * chief CFO
-  * banks
-  * employees
+  * individual payments to employees
+  * summary of all expenditures for CFO
 
 ### Client Information
 * one pool of money to pay employees from
