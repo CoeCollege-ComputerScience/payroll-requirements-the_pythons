@@ -22,7 +22,6 @@
 * Automated overtime Calculations
 * Search Capabilities on all fields
 * Direct Deposits
-* Multiple Payment Options
 * Provide ability to input, access, and store data
 * use linked list to store data (extra credit and allows for searching)
 
@@ -36,7 +35,6 @@
 ## Security
 * state regulations
 * security requirements
-* user appropriate accessability
 
 
 ### Business
@@ -44,8 +42,8 @@
   * pay employees, keep records, generate reports
 
 ### User
-* Who will use the program?
-
+* the accounting / payroll department
+* CFO
 
 ### Functional
 * pay employees by direct deposit to their bank accounts
@@ -58,4 +56,7 @@
 
 
 ### Implementation
+
 * The employee data is in a binary file that the program will need to read
+
+
