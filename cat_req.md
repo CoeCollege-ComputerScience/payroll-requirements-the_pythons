@@ -36,7 +36,7 @@
 ## Security
 * state regulations
 * security requirements
-* user appropriate accessability
+* user appropriate accessibility
 
 
 ### Business
