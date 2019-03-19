@@ -11,7 +11,6 @@
 ## Payroll Questions
 
 * Does it handle employee based deductions?
-* What currencies will be used?
 * How do the users access the system?
 * How does the system handle overtime, bonuses, or deductions?
 * Is there 401k contribution tracking

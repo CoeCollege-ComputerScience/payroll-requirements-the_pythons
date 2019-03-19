@@ -23,20 +23,18 @@
 * Search Capabilities on all fields
 * Direct Deposits
 * Provide ability to input, access, and store data
+* use linked list to store data (extra credit and allows for searching)
 
 ## Data
 * Customer Data
     *  SSN, Email, Phone number, Address, ...
 * Document Storage (Where?)
 * Employee Records
-* Time Tracking
-    * Hours worked
 
 
 ## Security
 * state regulations
 * security requirements
-* user appropriate accessibility
 
 
 ### Business
@@ -58,5 +56,7 @@
 
 
 ### Implementation
-* Does the customer have a program currently managing their payroll?
-  * if so, what format is that program's data in?
+
+* The employee data is in a binary file that the program will need to read
+
+
